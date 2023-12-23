@@ -1,0 +1,12 @@
+E:\Proejcts\C#\ScreenLib\bin\Debug\net7.0\ScreenLib.deps.json
+E:\Proejcts\C#\ScreenLib\bin\Debug\net7.0\ScreenLib.dll
+E:\Proejcts\C#\ScreenLib\bin\Debug\net7.0\ScreenLib.pdb
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ScreenLib.csproj.AssemblyReference.cache
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ScreenLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ScreenLib.AssemblyInfoInputs.cache
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ScreenLib.AssemblyInfo.cs
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ScreenLib.csproj.CoreCompileInputs.cache
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ScreenLib.dll
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\refint\ScreenLib.dll
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ScreenLib.pdb
+E:\Proejcts\C#\ScreenLib\obj\Debug\net7.0\ref\ScreenLib.dll
